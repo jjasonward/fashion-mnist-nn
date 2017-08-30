@@ -10,7 +10,10 @@ This is the code for a fashion article classifier that detects clothing and acce
 
 I built a 3-layer feedforward neural network which classifies different clothing / accessory items such as t-shirts, trousers, dresses, sneakers, and bags using the [TensorFlow](https://www.tensorflow.org/) library. The inputs are black and white images of size 28x28, and the output is an integer (corresponding to the target class).
 
-The model was able to classify the test set with an accuracy of **~89.6%**.
+| Set  | Classification Accuracy |
+| ------------- | ------------- |
+| Training  | 93.63%  |
+| Test  | 89.94%  |
 
 ## Dependencies
 
