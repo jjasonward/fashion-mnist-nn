@@ -2,6 +2,10 @@
 
 This is the code for a fashion article classifier that detects clothing and accessories, from the [Zalando Research Fashion MNIST repository](https://github.com/zalandoresearch/fashion-mnist).
 
+![alt text](https://raw.githubusercontent.com/zalandoresearch/fashion-mnist/master/doc/img/fashion-mnist-sprite.png)
+
+*(Image by: [zalandoresearch](https://github.com/zalandoresearch))*
+
 ## Overview
 
 I built a 3-layer feedforward neural network which classifies different clothing / accessory items such as t-shirts, trousers, dresses, sneakers, and bags using the [TensorFlow](https://www.tensorflow.org/) library. The inputs are black and white images of size 28x28, and the output is an integer (corresponding to the target class).
