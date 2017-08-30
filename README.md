@@ -1,1 +1,1 @@
-# fashion-mnist-cnn
+# fashion-mnist-nn
