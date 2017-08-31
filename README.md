@@ -26,7 +26,7 @@ Install dependencies using [pip](https://pip.pypa.io/en/stable/).
 
 The data set was taken from the [Fashion MNIST repository](https://github.com/zalandoresearch/fashion-mnist) by [zalandoresearch](https://github.com/zalandoresearch). The training set contains 60,000 examples and the test set contains 10,000 examples. Each example is a 28x28 grayscale image, and has an associated label from 10 classes.
 
-| Class label  | Definition |
+| Target class  | Definition |
 | ------------- | ------------- |
 | 0  | T-shirt/top  |
 | 1  | Trouser  |
