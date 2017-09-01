@@ -12,12 +12,19 @@ I built a 3-layer feedforward neural network which classifies different clothing
 
 | Set  | Classification Accuracy |
 | ------------- | ------------- |
-| Training  | 93.63%  |
-| Test  | 89.94%  |
+| Training  | 93.51%  |
+| Test  | 89.35%  |
+
+## Comparison with the original MNIST
+
+| Set  | Accuracy (Fashion MNIST) | Accuracy (MNIST) |
+| ------------- | ------------- | ------------- |
+| Training  | 93.51%  | 99.74%  |
+| Test  | 89.35%  | 97.74%  |
 
 ## Details
 
-Here are the final hyperparameters and parameters which yeilded the accuracies above:
+Here are the final hyperparameters and parameters which yielded the accuracies above:
 
 | Hyperparameter / Parameter  | Value / Type |
 | ------------- | ------------- |
