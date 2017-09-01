@@ -15,6 +15,23 @@ I built a 3-layer feedforward neural network which classifies different clothing
 | Training  | 93.63%  |
 | Test  | 89.94%  |
 
+## Details
+
+Here are the final hyperparameters and parameters which yeilded the accuracies above:
+
+| Hyperparameter / Parameter  | Value / Type |
+| ------------- | ------------- |
+| Weight initialization  | Xavier  |
+| Hidden layers  | 2  |
+| Hidden units (layer 1)  | 128  |
+| Activations (hidden layers)  | ReLU  |
+| Output layer  | Softmax  |
+| Minibatch size  | 32  |
+| Learning rate  | 0.0005  |
+| Epochs  | 16  |
+| Optimizer  | Adam  |
+
+
 ## Dependencies
 
 - numpy
